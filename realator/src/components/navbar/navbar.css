@@ -1,0 +1,21 @@
+/* styles.css */
+
+.navbar {
+    background-color: #080d1e; /* Background color for the navbar */
+    padding: 10px; /* Padding for the navbar */
+    display: flex;
+    justify-content: space-around; /* Space the links evenly */
+    align-items: center;
+}
+
+.navbarmenu a {
+    color: white; /* Text color for the links */
+    text-decoration: none; /* Remove underlines from links */
+    padding: 10px 15px; /* Padding for each link */
+    border-radius: 5px; /* Add rounded corners to the links */
+    transition: background-color 0.3s ease; /* Add a smooth transition effect for background color */
+}
+
+.navbarmenu a:hover {
+    background-color: #555; /* Change background color on hover */
+}
