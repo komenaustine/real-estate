@@ -60,7 +60,7 @@ const YourComponent = () => {
             "bedrooms": 3,
             "bathrooms": 3,
             "area": "2,500 sq. ft.",
-            "image": "https://exahttps://wallpapercave.com/wp/wp3982615.jpg",
+            "image": "https://wallpapercave.com/wp/wp3982615.jpg",
             "description": "A cozy mountain retreat with breathtaking views, perfect for nature lovers."
           },
           {
@@ -104,7 +104,7 @@ const YourComponent = () => {
             "bedrooms": 5,
             "bathrooms": 6,
             "area": "8,000 sq. ft.",
-            "image": "https:https://wallpapercave.com/wp/wp3982615.jpg",
+            "image": "https://wallpapercave.com/wp/wp3982615.jpg",
             "description": "An impressive estate overlooking the golf course, featuring luxury amenities and spacious living areas."
           },
           {
@@ -126,7 +126,7 @@ const YourComponent = () => {
             "bedrooms": 3,
             "bathrooms": 2,
             "area": "1,800 sq. ft.",
-            "image": "https://exahttps://wallpapercave.com/wp/wp3982615.jpg",
+            "image": "https://wallpapercave.com/wp/wp3982615.jpg",
             "description": "A stylish beachfront condo with stunning ocean views and modern beach-inspired decor."
           },
           {
@@ -137,7 +137,7 @@ const YourComponent = () => {
             "bedrooms": 2,
             "bathrooms": 2,
             "area": "1,200 sq. ft.",
-            "image": "https://examphttps://wallpapercave.com/wp/wp3982615.jpg",
+            "image": "https://wallpapercave.com/wp/wp3982615.jpg",
             "description": "A beautifully restored historic townhouse with period details and modern conveniences."
           },
           {
@@ -148,7 +148,7 @@ const YourComponent = () => {
             "bedrooms": 3,
             "bathrooms": 2,
             "area": "2,000 sq. ft.",
-            "image": "https:/https://wallpapercave.com/wp/wp3982615.jpg",
+            "image": "https://wallpapercave.com/wp/wp3982615.jpg",
             "description": "A peaceful oasis in the desert with a private pool and stunning desert views."
           },
           {
@@ -159,7 +159,7 @@ const YourComponent = () => {
             "bedrooms": 5,
             "bathrooms": 4,
             "area": "5,000 sq. ft.",
-            "image": "https://examhttps://wallpapercave.com/wp/wp3982615.jpg",
+            "image": "https://wallpapercave.com/wp/wp3982615.jpg",
             "description": "An exquisite equestrian estate with stables, riding arenas, and luxurious living spaces."
           },
           {
@@ -170,7 +170,7 @@ const YourComponent = () => {
             "bedrooms": 3,
             "bathrooms": 4,
             "area": "3,500 sq. ft.",
-            "image": "https://examphttps://wallpapercave.com/wp/wp3982615.jpg",
+            "image": "https://wallpapercave.com/wp/wp3982615.jpg",
             "description": "An opulent penthouse with floor-to-ceiling windows and unparalleled views of the city skyline."
           },
           {
@@ -181,7 +181,7 @@ const YourComponent = () => {
             "bedrooms": 4,
             "bathrooms": 3,
             "area": "2,300 sq. ft.",
-            "image": "https://examhttps://wallpapercave.com/wp/wp3982615.jpg",
+            "image": "https://wallpapercave.com/wp/wp3982615.jpg",
             "description": "A tranquil riverside retreat with a private dock and lush green surroundings."
           },
           {
@@ -203,7 +203,7 @@ const YourComponent = () => {
             "bedrooms": 2,
             "bathrooms": 1,
             "area": "800 sq. ft.",
-            "image": "https://examhttps://wallpapercave.com/wp/wp3982615.jpg",
+            "image": "https://wallpapercave.com/wp/wp3982615.jpg",
             "description": "A charming treehouse retreat surrounded by nature, perfect for a unique getaway."
           },
           {
@@ -225,7 +225,7 @@ const YourComponent = () => {
             "bedrooms": 6,
             "bathrooms": 7,
             "area": "7,000 sq. ft.",
-            "image": "https://examplhttps://wallpapercave.com/wp/wp3982615.jpg",
+            "image": "https://wallpapercave.com/wp/wp3982615.jpg",
             "description": "An opulent Mediterranean villa with sea views, a private pool, and luxurious interiors."
           },
           {
@@ -236,7 +236,7 @@ const YourComponent = () => {
             "bedrooms": 5,
             "bathrooms": 6,
             "area": "4,500 sq. ft.",
-            "image": "https://examhttps://wallpapercave.com/wp/wp3982615.jpg",
+            "image": "https://wallpapercave.com/wp/wp3982615.jpg",
             "description": "A picturesque countryside manor with expansive grounds, a pond, and classic architecture."
           },
           {
@@ -247,7 +247,7 @@ const YourComponent = () => {
             "bedrooms": 4,
             "bathrooms": 5,
             "area": "6,500 sq. ft.",
-            "image": "https://exhttps://wallpapercave.com/wp/wp3982615.jpg",
+            "image": "https://wallpapercave.com/wp/wp3982615.jpg",
             "description": "An exclusive island paradise with pristine beaches, lush vegetation, and luxurious living spaces."
           },
           {
@@ -258,7 +258,7 @@ const YourComponent = () => {
             "bedrooms": 3,
             "bathrooms": 3,
             "area": "2,000 sq. ft.",
-            "image": "https://examplhttps://wallpapercave.com/wp/wp3982615.jpg",
+            "image": "https://wallpapercave.com/wp/wp3982615.jpg",
             "description": "A beautifully preserved historic brownstone with original details and modern updates."
           },
           {
@@ -269,7 +269,7 @@ const YourComponent = () => {
             "bedrooms": 4,
             "bathrooms": 3,
             "area": "2,200 sq. ft.",
-            "image": "https://examhttps://wallpapercave.com/wp/wp3982615.jpg",
+            "image": "https://wallpapercave.com/wp/wp3982615.jpg",
             "description": "A bright and sunny beach house with ocean views, spacious decks, and a private beach access."
           },
           {

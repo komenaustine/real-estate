@@ -6,18 +6,18 @@ function Navbar(){
     return(
         <div className="navbar">
             <div className="navbarmenu">
-                <a href="/">
+                <Link to="/">
                     Home
-                </a>
-                <Link href="/about"> 
+                </Link>
+                <Link to="/about"> 
                     About Us
                 </Link>
-                 <Link href="/properties">
+                 <Link to="/properties">
                     Properties
                 </Link>
-                <a href="/services">
+                <Link to="/services">
                     Services
-                </a>
+                </Link>
 
             </div>
         </div>
